@@ -1,3 +1,6 @@
+# Video Presentation
+https://youtu.be/C70PruLH5nI
+
 # Consumer-Goods-Analytics
 Atliq Hardware, an innovative leader in computer hardware and peripherals, recognized the critical need for data-driven decisions. Initiating 𝟭𝟬 𝗮𝗱-𝗵𝗼𝗰 𝗿𝗲𝗾𝘂𝗲𝘀𝘁𝘀, they tasked the data analytics team. Leveraging 𝗦𝗤𝗟 𝗾𝘂𝗲𝗿𝗶𝗲𝘀, I meticulously tackled each request, unraveling invaluable insights for 𝗺𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁.
 # Ad-Hoc Requests
